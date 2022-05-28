@@ -11,5 +11,6 @@ Results folder contains the necessary objective of the project which was suppose
 
 Download the CUBE matlab 4.zip file and then run the datafile,controller design file and the contact forces library file to run the simulink model.
 
-Project Creators: Pranay Junare, Rushikesh Pachghare, Poorval Wanere
+Video: 
 
+[![Watch the video](https://img.youtube.com/vi/-3vW-ikCra8/maxresdefault.jpg)](https://youtu.be/-3vW-ikCra8)
